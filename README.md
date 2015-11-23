@@ -24,11 +24,16 @@ selected and associated info window opens above map marker with information.
 
 ######Screenshots
 
-* Application renders on-screen in a responsive manner.(iPad and iPhone)
+* Application renders on-screen in a responsive manner.(Laptop, iPad and iPhone)
 
+* Laptop
 ![laptopsearch1](https://cloud.githubusercontent.com/assets/12447584/11315886/0853a786-8fc8-11e5-8646-87f8a7ecb9c7.png)
 ------------------------------------------------------------------------------
+
+* iPad
 ![laptopsearch2](https://cloud.githubusercontent.com/assets/12447584/11315888/0a11e07e-8fc8-11e5-90bf-2a79f551916f.png)
 ------------------------------------------------------------------
+
+* iPhone
 ![ipadscreenshot](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
 
