@@ -22,6 +22,8 @@ locations accordingly.
 to bounce and change color(icon) to indicate that the location has been
 selected and associated info window opens above map marker with information.
 
+--------------------------------------------------------------------
+
 ######Screenshots
 
 * Application renders on-screen in a responsive manner.(Laptop, iPad and iPhone)
